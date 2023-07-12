@@ -51,3 +51,11 @@ The programme is what you're entering next year.
 ## Credits (& Credited Courses)
 
 * All courses in the Programme are accredited (2-4 credits)
+* With this, **You can also fail now.**
+* If you pass, you get credits!
+* Otherwise, you may need to repeat the class.
+
+---
+
+## How To Graduate (in 3 Years)
+
