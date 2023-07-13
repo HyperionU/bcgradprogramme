@@ -59,3 +59,31 @@ The programme is what you're entering next year.
 
 ## How To Graduate (in 3 Years)
 
+* Part A: Credits
+    * 80 Credits
+        * 28 Electives
+        * 52 Required (16 Grade 12)
+* Part B: Assessments
+    * Grade 10 Numeracy (Évaluation de numératie de la 10<sup>e</sup> année)
+    * Grade 10 & 12 Literacy
+
+---
+
+# How to Pick Classes
+
+---
+
+# Grade 10 (10<sup>e</sup> année)
+
+* Socials 10 (4 Credits)
+* Science 10 (4 Credits)
+* a PHE 10 (4 Credits)
+* an Arts / ADST 10/11/12 (4 Credits)
+* Career Life Education (4 Credits)
+* a Math 10 (4 Credits)
+* Electives (28 Credits)
+* Numeracy (Numératie) & Literacy. 
+
+---
+
+## 
