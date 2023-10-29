@@ -40,14 +40,6 @@ The programme is what you're entering next year.
 
 ---
 
-## The Three Year Rule
-
-* Once you enter, the clock is ticking.
-* You have three years (Grades 10, 11 & 12) to get your credits.
-* If you fail, you're 'kicked' from the school, and will need to finish your classes (likely through Central).
-
----
-
 ## Credits (& Credited Courses)
 
 * All courses in the Programme are accredited (2-4 credits)
